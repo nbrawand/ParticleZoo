@@ -10,8 +10,12 @@ This program was created by Nicholas P. Brawand, as a work sample for the positi
 
 * Navigate to the root directory
 * open ParticleZoo.sln using Visual Studio 2017
+* click run and you are done!
+
+### Dependencies ###
+
 * Dependencies - Unity Application Block, SQL Server 2016
-* Database configuration is optional. Set database connection string in Factory.cs and set table name in DAL.cs line:125.
+* Database configuration is optional. To setup a database, enter the connection string in Factory.cs and set table name in DAL.cs at line:125.
 
 ### Usage ###
 
